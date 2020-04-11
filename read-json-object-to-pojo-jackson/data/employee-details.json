@@ -1,7 +1,7 @@
 {
 	"id": 14,
 	"firstName": "Dipi",
-	"lastName": "Neupane",
+	"lastName": "Neup",
 	"active": true,
 	"address": {
 		"street": "Norway",
@@ -11,5 +11,5 @@
 		"country": "Norway"
 	},
 	"languages" : ["Java", "C#", "Python", "Javascript"],
-	"company" :"Dipi ASA"
+	"company" :"Next Solution ASA"
 }

@@ -1,0 +1,15 @@
+{
+	"id": 14,
+	"firstName": "Dipi",
+	"lastName": "Neupane",
+	"active": true,
+	"address": {
+		"street": "Norway",
+		"city": "Oslo",
+		"state": "Oslo",
+		"zip": "0677",
+		"country": "Norway"
+	},
+	"languages" : ["Java", "C#", "Python", "Javascript"],
+	"company" :"Dipi ASA"
+}
